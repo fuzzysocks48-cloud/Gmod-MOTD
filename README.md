@@ -1,0 +1,2 @@
+# Gmod-MOTD
+Silly Stuff
